@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lepoesievolgarie00boiauoft_0223.png"; bbox 0 0 2612 4270; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 2503 322 4270">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 2503 322 4270">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 2503 322 4270; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 2503 322 4270; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1343 1316">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1343 1316">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1343 1316; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 0 0 1343 1316; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 403 1463 1791 1758">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 403 1463 1791 1758">
+     <span class='ocr_line' id='line_1_3' title="bbox 403 1463 1791 1558; baseline -0.002 -35"><span class='ocrx_word' id='word_1_3' title='bbox 403 1464 903 1558; x_wconf 71' lang='lat' dir='ltr'>MATTHAE1</span> <span class='ocrx_word' id='word_1_4' title='bbox 958 1463 1313 1525; x_wconf 85' lang='lat' dir='ltr'>MARIAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1367 1463 1791 1526; x_wconf 78' lang='lat' dir='ltr'>BOIARDI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 679 1659 1521 1758; baseline -0.002 -24"><span class='ocrx_word' id='word_1_6' title='bbox 679 1674 1016 1734; x_wconf 83' lang='lat' dir='ltr'>COMITIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 1065 1659 1521 1758; x_wconf 77' lang='lat' dir='ltr'>scANDIANJ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 577 1884 1620 1946">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 577 1884 1620 1946">
+     <span class='ocr_line' id='line_1_5' title="bbox 577 1884 1620 1946; baseline -0.002 -2"><span class='ocrx_word' id='word_1_8' title='bbox 577 1885 950 1946; x_wconf 87' lang='lat' dir='ltr'>AMORUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 987 1885 1236 1945; x_wconf 85' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_10' title='bbox 1269 1884 1620 1945; x_wconf 85' lang='lat' dir='ltr'>TERTIUS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
